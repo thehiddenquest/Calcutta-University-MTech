@@ -1,0 +1,7 @@
+Corner Detection :- https://youtu.be/Z_HwkG90Yvw?si=hienNnxuT_8nZPP2
+HOG Transformation :- https://www.youtube.com/watch?v=5nZGnYPyKLU
+Principal Component Analysis 1 :- https://youtu.be/ZtS6sQUAh0c?si=DoNJAgKtqhCXAQJy
+Principal Component Analysis 2 :- https://youtu.be/XO0US1aTA50?si=Zv0paQxDeRu890FU
+Confusion matrix 1 :- https://youtu.be/_CGTbkHwUHQ?si=mIIfwz3Jbu9LNuIS
+Confusion matrix 2 :- https://youtu.be/vP06aMoz4v8?si=AerFLuMJc1r1QsO6
+Confusion matrix 3:-  https://youtu.be/4jRBRDbJemM?si=DYD306CnRoSfWOnE

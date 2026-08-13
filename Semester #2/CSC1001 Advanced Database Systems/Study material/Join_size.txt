@@ -1,0 +1,16 @@
+General Rule for Estimating Join Size
+
+When joining R(X) and S(Y) on attribute A:
+
+If A is the primary key of S, then
+
+∣R⋈S∣≤∣R∣
+
+If A is the primary key of R, then
+
+∣R⋈S∣≤∣S∣
+
+If A is the primary key in both relations, then
+
+∣R⋈S∣≤min(∣R∣,∣S∣)
+If A is not a primary key in either relation, you need additional information (such as the number of distinct values or selectivity). Without that, the exact result size cannot be estimated reliably.
